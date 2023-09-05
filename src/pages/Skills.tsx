@@ -1,10 +1,10 @@
 import { motion } from 'framer-motion';
 import {
   IconCodeCircle,
-  IconBrandReact,
   IconBrandNextjs,
-  IconBrandVue,
   IconBrandTailwind,
+  IconBrandLaravel,
+  IconBrandBootstrap,
 } from '@tabler/icons-react';
 import { SectionMotion } from '../common/motion/Section';
 import { SectionHeader } from '../components/SectionHeader';
@@ -15,10 +15,10 @@ export const Skills = () => {
   const sectionDescription = 'List of my skills';
   // mockup skills data
   const skills = [
-    { label: 'React Js', icon: <IconBrandReact /> },
+    { label: 'Laravel', icon: <IconBrandLaravel /> },
     { label: 'Next Js', icon: <IconBrandNextjs /> },
-    { label: 'Vue Js', icon: <IconBrandVue /> },
     { label: 'Tailwind CSS', icon: <IconBrandTailwind /> },
+    { label: 'Bootstrap CSS', icon: <IconBrandBootstrap /> },
   ];
   return (
     <motion.section
