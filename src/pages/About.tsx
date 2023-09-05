@@ -32,19 +32,7 @@ export const About = () => {
         maintain and scale. I am always eager to learn new technologies and
         improve my skills
       </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sequi
-        officiis quas, facilis molestiae adipisci reprehenderit itaque alias
-        atque tempora odit perferendis, nulla voluptatem quo voluptatum enim
-        expedita, numquam nemo! Vel necessitatibus provident fugiat asperiores
-        velit? Illum amet cum dignissimos? Quo perferendis vitae eos dolores
-        sunt delectus voluptate ab omnis asperiores dicta, dolor reprehenderit
-        blanditiis et a quod esse. Aut omnis rerum distinctio ducimus animi
-        delectus eum architecto voluptatem, tenetur labore eveniet aliquid
-        voluptas facere culpa autem saepe veniam enim et modi minus quod beatae
-        voluptatibus libero blanditiis. Harum ratione quod sunt vero quisquam
-        iste accusantium numquam distinctio. Recusandae, aut!
-      </p>
+      
     </motion.section>
   );
 };

@@ -39,6 +39,16 @@ export const Experience = () => {
       duration: '3 Months',
       location: 'Karanganyar',
     },
+    {
+      id: 3,
+      image: '/vite.svg',
+      name: 'PT Oemah Solution Indonesia',
+      position: 'Mobile Developer',
+      startDate: 'Agustus 2023',
+      endDate: 'Now',
+      duration: '',
+      location: 'Yogyakarta',
+    },
   ];
   return (
     <motion.section

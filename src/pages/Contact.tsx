@@ -20,7 +20,7 @@ export const Contact = () => {
       id: 1,
       name: 'Whatsapp',
       image: <IconBrandWhatsapp style={iconStyles} />,
-      description: '+62887676546',
+      description: '+6287861541603',
       link: 'https://wa.me/+6287861541603',
     },
     {
