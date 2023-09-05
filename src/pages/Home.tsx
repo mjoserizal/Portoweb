@@ -24,7 +24,7 @@ export const Home = () => {
           Web Developer
         </h2>
         <p className="text-center md:text-start text-xs md:text-base">
-          Halo, saya Jose. Saya Mahasiswa D3 Teknik Informatika UNS.
+        Hello, I'm Jose. I am a D3 student of Informatics Engineering UNS.
         </p>
         <Link to="./Mohammad Jose Rizal.pdf" target="_blank">
           <motion.div
