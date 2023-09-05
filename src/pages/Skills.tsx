@@ -5,6 +5,7 @@ import {
   IconBrandTailwind,
   IconBrandLaravel,
   IconBrandBootstrap,
+  IconBrandFigma,
 } from '@tabler/icons-react';
 import { SectionMotion } from '../common/motion/Section';
 import { SectionHeader } from '../components/SectionHeader';
@@ -19,6 +20,7 @@ export const Skills = () => {
     { label: 'Next Js', icon: <IconBrandNextjs /> },
     { label: 'Tailwind CSS', icon: <IconBrandTailwind /> },
     { label: 'Bootstrap CSS', icon: <IconBrandBootstrap /> },
+    { label: 'Bootstrap CSS', icon: <IconBrandFigma /> },
   ];
   return (
     <motion.section
