@@ -20,7 +20,7 @@ export const Skills = () => {
     { label: 'Next Js', icon: <IconBrandNextjs /> },
     { label: 'Tailwind CSS', icon: <IconBrandTailwind /> },
     { label: 'Bootstrap CSS', icon: <IconBrandBootstrap /> },
-    { label: 'Bootstrap CSS', icon: <IconBrandFigma /> },
+    { label: 'Figma', icon: <IconBrandFigma /> },
   ];
   return (
     <motion.section
