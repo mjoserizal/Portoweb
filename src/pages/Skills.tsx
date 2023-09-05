@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import {
   IconCodeCircle,
-  IconBrandNextjs,
   IconBrandTailwind,
   IconBrandLaravel,
   IconBrandBootstrap,
@@ -10,6 +9,7 @@ import {
 import { SectionMotion } from '../common/motion/Section';
 import { SectionHeader } from '../components/SectionHeader';
 import { SkillCard } from '../components/SkillCard';
+import { IconBrandFlutter } from '@tabler/icons-react';
 
 export const Skills = () => {
   const { section } = SectionMotion;
@@ -17,7 +17,7 @@ export const Skills = () => {
   // mockup skills data
   const skills = [
     { label: 'Laravel', icon: <IconBrandLaravel /> },
-    { label: 'Next Js', icon: <IconBrandNextjs /> },
+    { label: 'Flutter', icon: <IconBrandFlutter /> },
     { label: 'Tailwind CSS', icon: <IconBrandTailwind /> },
     { label: 'Bootstrap CSS', icon: <IconBrandBootstrap /> },
     { label: 'Figma', icon: <IconBrandFigma /> },
