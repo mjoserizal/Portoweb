@@ -26,7 +26,7 @@ export const Home = () => {
         <p className="text-center md:text-start text-xs md:text-base">
           Halo, saya Jose. Saya Mahasiswa D3 Teknik Informatika UNS.
         </p>
-        <Link to="./Bayu-Setiawan-Frontend-Developer-CV.pdf" target="_blank">
+        <Link to="./Mohammad Jose Rizal.pdf" target="_blank">
           <motion.div
             initial={resume.initial}
             animate={resume.animated}

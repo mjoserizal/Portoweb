@@ -19,12 +19,12 @@ export const About = () => {
         description={sectionDescription}
       />
       <div className="flex gap-2 text-md lg:text-xl font-medium">
-        <h2 className="font-semibold">Hello, i'm Bayu</h2>
+        <h2 className="font-semibold">Hello, i'm Jose</h2>
         <div className="ml-1 animate-waving-hand">👋</div>
       </div>
       <p>
         I am Software Engineer proficient in TypeScript and well-versed in
-        popular frameworks such as React JS, Next JS, Vue JS, and Nuxt Js. Not
+        popular frameworks such as Laravel. Not
         just coding. I am passionate about creating clean and efficient code,
         automating testing code, and implementing modern design principles to
         deliver intuitive user experiences. With my technical expertise, I am

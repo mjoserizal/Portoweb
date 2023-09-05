@@ -4,8 +4,6 @@ import {
   IconBrandReact,
   IconBrandNextjs,
   IconBrandVue,
-  IconBrandNuxt,
-  IconBrandSvelte,
   IconBrandTailwind,
 } from '@tabler/icons-react';
 import { SectionMotion } from '../common/motion/Section';
@@ -20,8 +18,6 @@ export const Skills = () => {
     { label: 'React Js', icon: <IconBrandReact /> },
     { label: 'Next Js', icon: <IconBrandNextjs /> },
     { label: 'Vue Js', icon: <IconBrandVue /> },
-    { label: 'Nuxt Js', icon: <IconBrandNuxt /> },
-    { label: 'Svelte Js', icon: <IconBrandSvelte /> },
     { label: 'Tailwind CSS', icon: <IconBrandTailwind /> },
   ];
   return (
