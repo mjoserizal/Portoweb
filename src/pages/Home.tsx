@@ -54,7 +54,7 @@ export const Home = () => {
         />
       </motion.div>
 
-      <LeaveCard label="Frontend Dev" />
+      <LeaveCard label="Web Development" />
     </section>
   );
 };
