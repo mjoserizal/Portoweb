@@ -23,7 +23,7 @@ export const About = () => {
         <div className="ml-1 animate-waving-hand">👋</div>
       </div>
       <p>
-        I am Software Engineer proficient in TypeScript and well-versed in
+        I am Software Engineer proficient in PHP and well-versed in
         popular frameworks such as Laravel. Not
         just coding. I am passionate about creating clean and efficient code,
         automating testing code, and implementing modern design principles to
