@@ -11,7 +11,7 @@ export const Education = () => {
   const educations = [
     {
       id: 1,
-      image: '/vite.svg',
+      image: '/smaboy.jpg',
       name: 'Senior High School',
       position: 'MIPA',
       startDate: 'June 2018',
@@ -21,7 +21,7 @@ export const Education = () => {
     },
     {
       id: 2,
-      image: '/vite.svg',
+      image: '/unslogo.jpeg',
       name: 'UNS University',
       position: 'Informatics Engineering',
       startDate: 'June 2021',
