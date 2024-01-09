@@ -1,50 +1,56 @@
-import { motion } from 'framer-motion';
-import { IconBrandCodepen } from '@tabler/icons-react';
-import { SectionMotion } from '../common/motion/Section';
-import { SectionHeader } from '../components/SectionHeader';
-import { ProjectCard } from '../components/ProjectCard';
+import { motion } from "framer-motion";
+import { IconBrandCodepen } from "@tabler/icons-react";
+import { SectionMotion } from "../common/motion/Section";
+import { SectionHeader } from "../components/SectionHeader";
+import { ProjectCard } from "../components/ProjectCard";
 
 export const Portfolio = () => {
   const { section } = SectionMotion;
-  const sectionDescription = 'List of my portfolio projects';
+  const sectionDescription = "List of my portfolio projects";
   const portfolios = [
     {
       id: 1,
-      name: 'BPS Desa Cantik',
-      description: 'Project with BPS use framework Laravel',
-      image: '/desacantik.jpg',
-      link: '',
+      name: "BPS Desa Cantik",
+      description: "Project with BPS use framework Laravel",
+      image: "/desacantik.jpg",
+      link: "",
     },
     {
       id: 2,
-      name: 'Project Data Security System',
-      description: 'My project Reservation Restaurant use framework Laravel',
-      image: '/skd.jpg',
-      link: 'https://github.com/mjoserizal/SKD_V3421062',
+      name: "Project Data Security System",
+      description: "My project Reservation Restaurant use framework Laravel",
+      image: "/skd.jpg",
+      link: "https://github.com/mjoserizal/SKD_V3421062",
     },
     {
       id: 3,
-      name: 'Sistem Profile Project',
-      description: 'My Project Crud use framework Laravel',
-      image: '/sp.jpg',
-      link: 'https://github.com/mjoserizal/SistemProfile_UTS',
+      name: "Sistem Profile Project",
+      description: "My Project Crud use framework Laravel",
+      image: "/sp.jpg",
+      link: "https://github.com/mjoserizal/SistemProfile_UTS",
     },
     {
       id: 4,
-      name: 'MyTsel Clone Project',
-      description: 'My Project Mobile App use Flutter',
-      image: '/telkomsel.jpg',
-      link: 'https://codebayu.com',
+      name: "MyTsel Clone Project",
+      description: "My Project Mobile App use Flutter",
+      image: "/telkomsel.jpg",
+      link: "https://github.com/mjoserizal/telkomsel-mobile",
+    },
+    {
+      id: 5,
+      name: "Inventory Apoteker Project",
+      description: "My Project Apoteker use Framework Laravel",
+      image: "/OIP.jpeg",
+      link: "https://github.com/mjoserizal/Web-Apoteker",
     },
   ];
-  
+
   return (
     <motion.section
       initial={section.initial}
       animate={section.animated}
       transition={section.transition}
-      className="space-y-6"
-    >
+      className="space-y-6">
       <SectionHeader
         icon={<IconBrandCodepen />}
         label="Portfolio"
