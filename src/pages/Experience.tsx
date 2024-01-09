@@ -34,9 +34,9 @@ export const Experience = () => {
       image: "/vite.svg",
       name: "BPS Surakarta (WFH)",
       position: "Backend Developer",
-      startDate: "February 2023",
-      endDate: "June 2023",
-      duration: "3 Months",
+      startDate: "Februari 2023",
+      endDate: "Juli 2023",
+      duration: "5 Months",
       location: "Karanganyar",
     },
     {
@@ -46,7 +46,7 @@ export const Experience = () => {
       position: "Mobile Developer",
       startDate: "Agustus 2023",
       endDate: "Januari 2024",
-      duration: "",
+      duration: "5 Bulan",
       location: "Yogyakarta",
     },
   ];
