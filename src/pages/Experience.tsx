@@ -26,7 +26,7 @@ export const Experience = () => {
       position: "Input Data",
       startDate: "June 2022",
       endDate: "July 2022",
-      duration: "1 Months",
+      duration: "1 Bulan",
       location: "Surakarta",
     },
     {
@@ -36,7 +36,7 @@ export const Experience = () => {
       position: "Backend Developer",
       startDate: "Februari 2023",
       endDate: "Juli 2023",
-      duration: "5 Months",
+      duration: "5 Bulan",
       location: "Karanganyar",
     },
     {
