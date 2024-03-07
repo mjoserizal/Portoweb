@@ -53,7 +53,7 @@ export const Experience = () => {
       id: 5,
       image: "/ism.jpeg",
       name: "PT Integra Solusi Mandiri",
-      position: "Mobile Developer",
+      position: "Web Developer",
       startDate: "Januari 2024",
       endDate: "Sekarang",
       duration: "5 Bulan",
