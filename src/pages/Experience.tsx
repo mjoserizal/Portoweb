@@ -11,7 +11,7 @@ export const Experience = () => {
   const experiences = [
     {
       id: 1,
-      image: "/vite.svg",
+      image: "/kstv.png",
       name: "KSTV",
       position: "Facebook Admin dan Ads",
       startDate: "June 2021",
@@ -21,7 +21,7 @@ export const Experience = () => {
     },
     {
       id: 2,
-      image: "/vite.svg",
+      image: "/rsuns.png",
       name: "Rumah Sakit UNS",
       position: "Input Data",
       startDate: "June 2022",
@@ -31,7 +31,7 @@ export const Experience = () => {
     },
     {
       id: 3,
-      image: "/vite.svg",
+      image: "/bps.jpeg",
       name: "BPS Surakarta (WFH)",
       position: "Backend Developer",
       startDate: "Februari 2023",
@@ -48,6 +48,16 @@ export const Experience = () => {
       endDate: "Januari 2024",
       duration: "5 Bulan",
       location: "Yogyakarta",
+    },
+    {
+      id: 5,
+      image: "/ism.jpeg",
+      name: "PT Integra Solusi Mandiri",
+      position: "Mobile Developer",
+      startDate: "Januari 2024",
+      endDate: "Sekarang",
+      duration: "5 Bulan",
+      location: "Jakarta",
     },
   ];
   return (
