@@ -41,7 +41,7 @@ export const Experience = () => {
     },
     {
       id: 4,
-      image: "/vite.svg",
+      image: "/osi.jpeg",
       name: "PT Oemah Solution Indonesia",
       position: "Mobile Developer",
       startDate: "Agustus 2023",
