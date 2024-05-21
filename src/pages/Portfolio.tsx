@@ -11,7 +11,7 @@ export const Portfolio = () => {
     {
       id: 1,
       name: "BPS Desa Cantik",
-      description: "Project with BPS use framework Laravel",
+      description: "Project with BPS use framework Laravel - BPS",
       image: "/desacantik.jpg",
       link: "",
     },
@@ -42,6 +42,27 @@ export const Portfolio = () => {
       description: "My Project Apoteker use Framework Laravel",
       image: "/OIP.jpeg",
       link: "https://github.com/mjoserizal/Web-Apoteker",
+    },
+    {
+      id: 6,
+      name: "Aplikasi Pajak dan Retribusi Online - Frontend",
+      description: "Projek Aplikasi Pajak dan Retribusi Online - PKIT",
+      image: "/apk-pajak.png",
+      link: "",
+    },
+    {
+      id: 7,
+      name: "Aplikasi Perlengkapan Jalan - Frontend",
+      description: "Projek Aplikasi Perlengkapan Jalan - PKIT",
+      image: "/On Boarding.png",
+      link: "",
+    },
+    {
+      id: 8,
+      name: "PRISCA APPS - Frontend",
+      description: "Projek Aplikasi Manajemen Vendor - Integra Solusi Mandiri",
+      image: "/prisca (2).png",
+      link: "",
     },
   ];
 

@@ -55,9 +55,19 @@ export const Experience = () => {
       name: "PT Integra Solusi Mandiri",
       position: "Web Developer",
       startDate: "Januari 2024",
-      endDate: "Sekarang",
-      duration: "5 Bulan",
+      endDate: "Maret 2024",
+      duration: "3 Bulan",
       location: "Jakarta",
+    },
+    {
+      id: 6,
+      image: "/pkit.png",
+      name: "PKIT",
+      position: "Fullstack Developer",
+      startDate: "Maret 2024",
+      endDate: "Sekarang 2024",
+      duration: "2 Bulan",
+      location: "Bengkulu",
     },
   ];
   return (
