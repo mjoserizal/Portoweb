@@ -20,7 +20,7 @@ export const Portfolio = () => {
       name: "Project Data Security System",
       description: "My project Reservation Restaurant use framework Laravel",
       image: "/skd.jpg",
-      link: "https://github.com/mjoserizal/SKD_V3421062",
+      link: "https://github.com/mjoserizal/Reservation",
     },
     {
       id: 3,
