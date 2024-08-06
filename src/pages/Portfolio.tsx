@@ -61,14 +61,14 @@ export const Portfolio = () => {
       id: 8,
       name: "Aplikasi Kependudukan Rajalebong - Frontend",
       description: "Projek Aplikasi Kependudukan - PKIT",
-      image: "/prisca (2).png",
+      image: "/aplikasi_kependudukan.png",
       link: "",
     },
     {
       id: 9,
       name: "PRISCA APPS - Frontend",
       description: "Projek Aplikasi Manajemen Vendor - Integra Solusi Mandiri",
-      image: "/aplikasi_kependudukan.png",
+      image: "/prisca (2).png",
       link: "",
     },
   ];
