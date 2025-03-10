@@ -71,6 +71,13 @@ export const Portfolio = () => {
       image: "/prisca (2).png",
       link: "",
     },
+    {
+      id: 10,
+      name: "PTSP UIN SAIZU - Frontend",
+      description: "Projek Sistem Informasi Universitas - PT. MEDIA SARANA DATA (GMEDIA)",
+      image: "/PTSP-GMEDIA.png",
+      link: "",
+    },
   ];
 
   return (
