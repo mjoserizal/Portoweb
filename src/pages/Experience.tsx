@@ -65,10 +65,20 @@ export const Experience = () => {
       name: "PKIT",
       position: "Fullstack Developer",
       startDate: "Maret 2024",
-      endDate: "Sekarang 2024",
-      duration: "2 Bulan",
+      endDate: "Mei 2024",
+      duration: "3 Bulan",
       location: "Bengkulu",
     },
+    {
+      id: 7,
+      image: "/gmedia.png",
+      name: "GMEDIA PT. MEDIA SARANA DATA",
+      position: "Front-End Developer",
+      startDate: "Desember 2024",
+      endDate: "Sekarang",
+      duration: "3 Bulan",
+      location: "Yogyakarta",
+    }
   ];
   return (
     <motion.section
